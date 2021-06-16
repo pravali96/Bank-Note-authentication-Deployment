@@ -1,4 +1,4 @@
-# Bank Note Authentication and Deployment with Flask, Swagger and Docker
+# Bank Note Authentication and Deployment using Flask, Swagger and Docker
 
 Determine whether a bank note is authentic or forged.
 
