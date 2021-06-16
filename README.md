@@ -2,12 +2,12 @@
 
 Determine whether a bank note is authentic or forged.
 
-### Data Set Information:
+### Data Set Information
 
 Data were extracted from images that were taken from genuine and forged banknote-like specimens. For digitization, an industrial camera usually used for print inspection was used. The final images have 400x 400 pixels. Due to the object lens and distance to the investigated object gray-scale pictures with a resolution of about 660 dpi were gained. Wavelet Transform tool were used to extract features from images.
 source: https://archive.ics.uci.edu/ml/datasets/banknote+authentication
 
-### Attribute Information:
+### Attribute Information
 
 1. variance of Wavelet Transformed image (continuous)
 2. skewness of Wavelet Transformed image (continuous)
