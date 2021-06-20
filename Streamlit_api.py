@@ -79,3 +79,7 @@ def main():
     
 if __name__ == '__main__':
     main()
+    
+    # In order to run this file, type in as:
+    # streamlit run Streamlit_api.py 
+    # in anaconda prompt by choosing the environment.
