@@ -28,7 +28,7 @@ Created a pickle file (classifier.pkl) of the model to use it in a Flask App. De
 In order to further improve the front-end user interface, used Swagger from Flasgger to create a proper front end api for model deployment
 
 ##### using Docker
-Deployed the app by giving the requirements in the dockerfile to access the api through Docker
+Deployed the app by giving the requirements in the dockerfile to access the app through Docker
 
 
 
